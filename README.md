@@ -32,3 +32,5 @@ rscript
 ---
 
 A day without ***Music*** is torture to the human **soul**
+
+What type of music?
