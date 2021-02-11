@@ -1,6 +1,6 @@
 # Internship
 
-Hi :sunglasess:
+Hi
 
 I'm Hebrew, a bioinformatics intern.
 
