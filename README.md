@@ -1,16 +1,18 @@
-# my-first-repo
-testing first repo
+# COHORT II Internship Training
 
-# first level header
+### Hebrew Simeon
+Hi
 
-My name is *Festus*
+I'm Hebrew, a bioinformatics intern.
 
-My name is **Festus**
+## Interests
 
-My name is **_Festus_**
+1. Molecular Biology
+2. Languages
+3. Soccer
 
-## second level
-The link to the [tutorial](https://docs.google.com/presentation/d/1NVHLHiL-tw-3e5KYFY-N_ISjWgGHIs45eAypEUep_hU/edit#slide=id.g1088c5b110_0_149)
+Bye!
+
 
 Here is  a ![cat](https://i.pinimg.com/originals/e4/27/55/e427556aa518c002db39e9d2b1fa5649.jpg)
 
@@ -19,15 +21,15 @@ Here is a ![bigcat](https://bigcatrescue.org/wp-content/uploads/2019/04/56564578
 ##adding name
 My name is *Rose*
 ### third level
+=======
+![caption](https://compote.slate.com/images/697b023b-64a5-49a0-8059-27b963453fb1.gif)
 
-> python.py
 
-```
-python.py
-bash 
-rscript
-```
+### Geoffrey Kimani
 
-------
+**Interests:**
+1. Computer Science
+2. AI
+3. DS
 
-:tada:
+**Role:** Software Developer
