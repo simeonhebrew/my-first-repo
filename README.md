@@ -1,17 +1,23 @@
-# my-first-repo
-testing first repo
+# COHORT II Internship Training
 
-# first level header
+### Hebrew Simeon
+Hi
 
-My name is *Festus*
+I'm Hebrew, a bioinformatics intern.
 
-My name is **Festus**
+## Interests
 
-My name is **_Festus_**
+1. Molecular Biology
+2. Languages
+3. Soccer
+
+**Kauthar's Comments**
 
 One can add changes to git from the command line
 
 This is made possible by commiting those changes and pushing them to git
+
+**Kauthar Omar**
 
 Hi meet Kauthar a bioinformatics intern at icipe
 
@@ -29,14 +35,20 @@ Here is  a ![cat](https://i.pinimg.com/originals/e4/27/55/e427556aa518c002db39e9
 ##adding name
 My name is *Rose*
 ### third level
+=======
+Bye!
 
-> python.py
+![caption](https://compote.slate.com/images/697b023b-64a5-49a0-8059-27b963453fb1.gif)
 
-```
-python.py
-bash 
-rscript
-```
+### Geoffrey Kimani
+
+**Interests:**
+1. Computer Science
+2. AI
+3. DS
 
 Lets learn some few things 
 ------
+=======
+**Role:** Software Developer
+
