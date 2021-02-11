@@ -9,6 +9,10 @@ My name is **Festus**
 
 My name is **_Festus_**
 
+One can add changes to git from the command line
+
+This is made possible by commiting those changes and pushing them to git
+
 ## second level
 The link to the [tutorial](https://docs.google.com/presentation/d/1NVHLHiL-tw-3e5KYFY-N_ISjWgGHIs45eAypEUep_hU/edit#slide=id.g1088c5b110_0_149)
 
@@ -25,5 +29,5 @@ python.py
 bash 
 rscript
 ```
-This is a test to see making changes on git from the commandline.
+
 ------
